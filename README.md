@@ -8,6 +8,10 @@ The platform is fully functional on **desktop and mobile devices** and includes 
 
 Visit the website here: https://avagapp-phi.vercel.app
 ---
+## Demo Preview
+
+![Demo Preview](src/kidsdemo.png)
+
 
 ## 🔗 Reference Platforms
 AVAG is inspired by leading educational platforms such as:
