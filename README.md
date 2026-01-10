@@ -10,7 +10,7 @@ Visit the website here: https://avagapp-phi.vercel.app
 ---
 ## Demo Preview
 
-![Demo Preview](src/kidsdemo.png)
+![Demo Preview](src/demo.png)
 
 
 ## 🔗 Reference Platforms
